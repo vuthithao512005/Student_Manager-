@@ -10,13 +10,10 @@ Plugin **Student Manager** giúp quản lý thông tin sinh viên trong WordPres
 
 ## 2. Kết quả thực hiện (Ảnh chụp màn hình)
 
-*(Hướng dẫn: Bạn dùng Snipping Tool hoặc phím PrintScreen để chụp ảnh và đẩy lên Github, sau đó chèn link ảnh vào đây)*
-
 **A. Giao diện Backend (Menu Sinh viên & Form nhập liệu):**
-![Giao diện Backend](link_anh_backend_cua_ban.png)
+
 
 **B. Giao diện Frontend (Bảng hiển thị qua Shortcode):**
-![Giao diện Frontend](link_anh_frontend_cua_ban.png)
 
 ## 3. Cách cài đặt và sử dụng
 1. Tải file `student-manager.zip`.
